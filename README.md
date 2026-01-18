@@ -41,4 +41,4 @@ This task is a valuable exercise in bridging theoretical knowledge with practica
 
 ## OUTPUT-
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4bdce412-90d9-4ec8-9978-f64b8fc2bcf6" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0d60958f-3898-4582-82c8-7318bc0d16c8" />
